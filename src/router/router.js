@@ -4,7 +4,7 @@ import { createRouter, createWebHistory } from "vue-router";
 import Home from "../pages/client/Home.vue";
 import Product from "../pages/client/Product.vue";
 import Category from "../pages/client/Category.vue";
-import AboutUs from "../pages/client/AboutUs.vue";
+import AboutUs from "../pages/client/Aboutus.vue";
 import Contact from "../pages/client/Contact.vue";
 import Cart from "../pages/client/Cart.vue";
 import Login from "../pages/client/Login.vue";
